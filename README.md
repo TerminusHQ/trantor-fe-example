@@ -10,6 +10,8 @@ npm i @terminus/t-tools -g
 # OR
 yarn add @terminus/t-tools -g
 
+## 运行
+yarn dev
 ```
 更多文档请参考 [自定义容器与控件]()
 
