@@ -1,0 +1,19 @@
+{
+  "BasicContainer": {
+    "type": "container",
+    "entry": {
+      "CustomComponents/BasicContainer": "./components/BasicContainer/index.tsx"
+    },
+    "model": "",
+    "description": ""
+  },
+  "BasicWidget": {
+    "type": "widget",
+    "entry": {
+      "CustomComponents/BasicWidget.input": "./components/BasicWidget/input.tsx",
+      "CustomComponents/BasicWidget.show": "./components/BasicWidget/show.tsx"
+    },
+    "model": "",
+    "description": ""
+  }
+}

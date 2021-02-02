@@ -1,0 +1,17 @@
+{
+  "name": "examples",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "T-tools dev",
+    "build": "T-tools build -s"
+  },
+  "author": "anonymous",
+  "license": "ISC",
+  "devDependencies": {
+    "@terminus/t-tools-externals-deps": "^0.0.2",
+    "@terminus/t-tools-externals-lazy-deps": "^0.0.2",
+    "@terminus/t-tools-externals-lazy-pkgs": "^0.0.2",
+    "@terminus/t-tools": "1.14.28"
+  },
+  "tools-version": "1.14.28"
+}
