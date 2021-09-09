@@ -6,5 +6,13 @@
     },
     "model": "",
     "description": "VueDemo 容器组件。"
+  },
+  "RouterDemo": {
+    "type": "container",
+    "entry": {
+      "CustomComponents/RouterDemo": "./components/RouterDemo/index.tsx"
+    },
+    "model": "",
+    "description": "RouterDemo 容器组件。"
   }
 }
