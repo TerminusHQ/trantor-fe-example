@@ -1,0 +1,10 @@
+{
+  "Demo": {
+    "type": "container",
+    "entry": {
+      "CustomComponents/Demo": "./components/Demo/index.tsx"
+    },
+    "model": "",
+    "description": "VueDemo 容器组件。"
+  }
+}

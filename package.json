@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "T-tools dev",
+    "build": "T-tools build -s"
+  },
+  "author": "anonymous",
+  "license": "ISC",
+  "devDependencies": {
+    "@terminus/t-tools-externals-deps": "^0.0.2",
+    "@terminus/t-tools-externals-lazy-deps": "^0.0.2",
+    "@terminus/t-tools-externals-lazy-pkgs": "^0.0.2",
+    "css-loader": "4.3.0",
+    "vue-loader": "^15.9.8",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^4.29.5",
+    "@terminus/t-tools": "^1.17.188-alpha-n17.0"
+  },
+  "dependencies": {
+    "vue": "^2.6.14",
+    "ant-design-vue": "^1.7.8",
+    "core-js": "2",
+    "vuera": "^0.2.7"
+  },
+  "tools-version": "1.17.188-alpha-n17.0"
+}
