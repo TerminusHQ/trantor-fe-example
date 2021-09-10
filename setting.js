@@ -13,7 +13,7 @@ module.exports ={
 
   isTrantor: true,
 
-  externals: [ 'react', 'react-dom', 'moment', 'lodash', 'classnames', 'classnames/bind', 'mobx', 'mobx-react', '@terminus/nusi', '@terminus/nusi-engine', '@terminus/i18n-plat-sdk-js'],
+  externals: [ 'react', 'react-dom', 'moment', 'lodash', 'classnames', 'classnames/bind', 'mobx', 'mobx-react', '@terminus/nusi', '@terminus/nusi-engine', '@terminus/i18n-plat-sdk-js', 'vue'],
 
   dynamicExternals,
 
