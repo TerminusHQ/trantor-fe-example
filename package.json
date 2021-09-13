@@ -12,6 +12,8 @@
     "@terminus/t-tools-externals-deps": "^0.0.2",
     "@terminus/t-tools-externals-lazy-deps": "^0.0.2",
     "@terminus/t-tools-externals-lazy-pkgs": "^0.0.2",
+    "babel-loader": "^8.2.2",
+    "babel-plugin-import": "^1.13.3",
     "css-loader": "4.3.0",
     "vue-loader": "^15.9.8",
     "vue-template-compiler": "^2.6.14",

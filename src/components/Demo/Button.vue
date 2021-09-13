@@ -6,8 +6,7 @@
 
 <!-- 这边使用 lang 为 ts -->
 <script lang="ts">
-import Button from 'ant-design-vue/lib/button';
-import 'ant-design-vue/lib/Button/style/css'; 
+import { Button } from 'ant-design-vue';
 
 export default {
   props: {
